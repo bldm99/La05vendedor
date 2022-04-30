@@ -1,0 +1,69 @@
+body{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+#for{
+    background: rgb(249, 171, 2);
+    text-align: center;
+}
+p{
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    margin-left: 90px;
+    margin-right: 90px;
+    
+   
+    
+}
+
+.bt{  
+    background: rgb(2, 2, 60);
+    color: aliceblue;
+    width: 8%;
+    height: 45px;
+    font-size: 18px;
+    border-radius: 5px; 
+}
+
+.lista li {
+    background: rgb(2, 2, 60);
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    padding: 4px;
+    
+    text-align: center;
+    text-decoration: none;
+}
+.lista .a{
+    color: aqua;
+    position: relative;
+    left:  -250px;
+    
+}
+.lista .b{
+    color: aqua;
+    position: relative;
+    left:  -134px;
+    
+}
+.lista .c{
+    color: aqua;
+    position: relative;
+    left:  -35px;
+    
+}
+.lista .d{
+    color: aqua;
+    position: relative;
+    left:  85px;
+    
+}
+.lista .e{
+    color: aqua;
+    position: relative;
+    left:  220px;
+    
+}
